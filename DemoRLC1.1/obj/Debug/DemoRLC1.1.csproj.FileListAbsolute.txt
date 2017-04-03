@@ -1,0 +1,12 @@
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\bin\Debug\DemoRLC1.1.exe.config
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\bin\Debug\DemoRLC1.1.exe
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\bin\Debug\DemoRLC1.1.pdb
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1.1.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1._1.Form1.resources
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1._1.Properties.Resources.resources
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1.1.csproj.GenerateResource.Cache
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1.1.exe
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1.1.pdb
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1._1.Form_series.resources
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1._1.Form_parallel.resources
+C:\Users\Дарья\Documents\Visual Studio 2015\Projects\DemoRLC1.1\DemoRLC1.1\obj\Debug\DemoRLC1._1.Parameters.resources
